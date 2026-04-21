@@ -18,7 +18,7 @@ export default function MyPartfolio() {
       <section className="hero-section" id="about">
         <div className="hero-avatar-container">
           <img
-            src="./assets/pictureOfMyFormalSelf.jpg"
+            src="./asserts/pictureOfMyFormalSelf.jpg"
             alt="profile"
             className="hero-avatar"
           />
