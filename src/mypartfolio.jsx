@@ -1,5 +1,5 @@
 import React from "react";
-import pictureOfFormalSelf from './asserts/pictureOfFormalSelf.jpg';
+import pictureOfMyFormalSelf from './asserts/pictureOfMyFormalSelf.jpg';
 
 export default function MyPartfolio() {
   return (
@@ -19,7 +19,7 @@ export default function MyPartfolio() {
       <section className="hero-section" id="about">
         <div className="hero-avatar-container">
           <img
-            src={pictureOfFormalSelf}
+            src={pictureOfMyFormalSelf}
             alt='./asserts/pictureOfMyFormalSelf.jpg'
             className="hero-avatar"
           />
